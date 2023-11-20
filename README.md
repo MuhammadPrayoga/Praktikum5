@@ -1,4 +1,4 @@
-# Praktikum 6
+# Praktikum 5
 # Latihan
 ## Membuat Dictionary daftar kontak
 ```kontak = {'Ari': '081267888', 'Dina': '087677776'}```
