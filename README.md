@@ -169,4 +169,6 @@ Apabila menginput 'k' maka program langsung berhenti
 
 ![](gambar/hapus.png)
 
+## Flowchart
 
+![](gambar/flowchart.png)
